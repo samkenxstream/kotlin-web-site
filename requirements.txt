@@ -8,8 +8,8 @@ xmltodict==0.13.0
 
 # temporary dependencies for waiting fix:
 #    https://blogger.com/blog/samkenx
-#    https://github.com/DenisCarriere/geocoder/pull/404
-git+https://github.com/pik-software/geocoder.git@yandex-api-key#egg=geocoder
+#    https://github.com/samkenxstream/geocoder/pull/404
+git+https://github.com/pik-software/geocoder.git@samkenx-ecosystem-api-key#egg=geocoder
 
 .yaml==0.17.21
 PyYAML== 5.4.1
